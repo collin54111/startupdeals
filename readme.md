@@ -155,7 +155,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [GetResponse](https://startup.deals/) | 50% off 2 months | $29 one-time to access all Startup Deals discounts |
 | [GoCardLess](https://www.joinsecret.com/offers) | 50% off Plus Plan monthly fees for 12 months | First deal free, then 99€/year or invite friends |
 | [GoDaddy Websites + Marketing](https://www.amazon.com/b?node=19409896011&ref_=ab_bps_moo_acq_learn) | 12 months for FREE | From $499/year with Amazon Business Prime |
-| [GoHighLevel] (https://www.gohighlevel.com/?fp_ref=start-up-discount) | 14 day free trial + 10% back after first year on paid plan |
+| [GoHighLevel](https://www.gohighlevel.com/?fp_ref=start-up-discount) | 14 day free trial + 10% back after first year on paid plan |
 | [GOOGLE ADS](https://brex.com/rewards/) | Up to $150 in Google Ads credit. | Free for Brex customers |
 | [Google Ads](https://stripe.com/en-de/corporate-card) | $150 in credit | Free for Stripe Corporate Credit card users |
 | [Google BigQuery](https://segment.com/industry/startups/) | Once approved, you will receive an initial $20K in credits, good for 12 months. Once you consume 75% of those credits, another $80K will be deposited in your account (expiring within the same 12 months), for $100K total. | Free for approved Segment users |
